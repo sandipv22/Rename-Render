@@ -9,8 +9,7 @@ id_pattern = re.compile(r'^.\d+$')
 
 API_ID = os.environ.get("API_ID", "1537320")
 
-API_HASH = os.environ.get("API_HASH", "
-4ccc64ee73b3db998fff2d3824e6df33")
+API_HASH = os.environ.get("API_HASH", "4ccc64ee73b3db998fff2d3824e6df33")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6950511726:AAF1i5Pbvq4S9uzGhOpNjGH4k36UE1GqZJk") 
 
